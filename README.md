@@ -1,0 +1,12 @@
+# SD-GAN
+Codes for our paper "SD-GAN: A Style Distribution Transfer Generative Adversarial Network for Racial Disparities Sovereign Covid-19 Detection". 
+## Workflow Diagram
+![]( SD-GAN/modelsdgan.jpg at SD-GAN · tasleem-hello/SD-GAN (github.com)
+### Contents
+1. Results
+2. Hardware Requirements
+3. Software Requirements
+### Hardware Requirements
+The experiments are performed on 2.4 GHz Intel(R) Xeon(R) E5-2630 CPU with one NVIDIA Tesla M40 GPU of 12GB memor
+### Software Requirements
+The proposed deep model and other tested state-of-the-art were implemented in TensorFlow [36] and Keras [37] libraries.
