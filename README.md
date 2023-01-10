@@ -2,6 +2,8 @@
 Codes for our paper "SD-GAN: A Style Distribution Transfer Generative Adversarial Network for Racial Disparities Sovereign Covid-19 Detection". 
 ## Workflow Diagram
 ![]( https://github.com/tasleem-hello/SD-GAN/blob/SD-GAN/modelsdgan.jpg)
+
+![](https://github.com/tasleem-hello/SD-GAN/blob/SD-GAN/results.pdf)
 ### Contents
 1. Results
 2. Hardware Requirements
